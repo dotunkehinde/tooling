@@ -72,4 +72,4 @@ Default web root:
 /usr/share/nginx/html
 ```
 
-## If you require permissions to GCP, or Gitlab resources, please talk to dotunkehinde@datapart.net
+## If you require permissions to GCP, or Gitlab resources, please talk to dotun@datapart.net
